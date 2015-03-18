@@ -28,8 +28,6 @@ PRODUCT_PACKAGES += \
     Contacts \
     DeskClock \
     DownloadProviderUi \
-    Email \
-    Exchange2 \
     ExternalStorageProvider \
     FusedLocation \
     InputDevices \
