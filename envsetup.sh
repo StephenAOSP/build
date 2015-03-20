@@ -463,9 +463,9 @@ function print_lunch_menu()
 {
     local uname=$(uname)
     echo
-    echo "You're building on" $uname
+    #echo "You're building on" $uname
     echo
-    echo "Lunch menu... pick a combo:"
+    echo "Lunch config for Nexus 6"
 
     local i=1
     local choice
@@ -486,7 +486,7 @@ function lunch()
         answer=$1
     else
         print_lunch_menu
-        echo -n "Which would you like? [aosp_arm-eng] "
+        echo -n "Build Nexus 6 - Shamu AOSP 5.1 "
         read answer
     fi
 
