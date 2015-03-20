@@ -27,15 +27,15 @@ PRODUCT_PACKAGES := \
     libwnndict \
     WAPPushManager
 
-PRODUCT_PACKAGES += \
-    HoloSpiralWallpaper \
-    LiveWallpapers \
-    LiveWallpapersPicker \
-    MagicSmokeWallpapers \
-    NoiseField \
-    PhaseBeam \
-    VisualizationWallpapers \
-    PhotoTable
+#PRODUCT_PACKAGES += \
+    #HoloSpiralWallpaper \
+    #LiveWallpapers \
+    #LiveWallpapersPicker \
+    #MagicSmokeWallpapers \
+    #NoiseField \
+    #PhaseBeam \
+    #VisualizationWallpapers \
+    #PhotoTable
 
 # Additional settings used in all AOSP builds
 PRODUCT_PROPERTY_OVERRIDES := \
