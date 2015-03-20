@@ -19,7 +19,7 @@
 
 PRODUCT_PACKAGES := \
     Dialer \
-    Mms \
+    #Mms \
     rild
 
 PRODUCT_COPY_FILES := \
